@@ -1,1 +1,2 @@
-# UrgentCare
+This program is about a local urgent care clinic that manages each patient as they arrive. When a patient arrives, they are assigned 1 five-digit case number, a count of which patient number they are that day, and a triage priority level of green(lowest), yellow(middle), or red(highest). 
+The patients who are marked as red will be put at the front of the list before anyone else, otherwise patients are served in the order they come in.
